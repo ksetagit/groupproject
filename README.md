@@ -1,4 +1,4 @@
-# Example project
+# Git Group Project
 
 ## Idea of the project
 Documentation of the KSETA Doktorandenworkshop, consisting mostly of Markdown
@@ -11,7 +11,6 @@ Contents:
 - Workshops.md
 - Activities.md
 - People.md
-- Suggestions.md (only branch suggestions)
 
 ## Common tasks for all groups
 
@@ -25,10 +24,13 @@ Contents:
 	Maybe try more fancy methods to look at the history like
 
 		git log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	or
 		gitk
 
 2. Create a new feature branch `addgroupname`. Think up a group name and add it
    to Groupname.md. 
+
+2. Put your names in People.md.
 
 2. Rename the branch created in the previous step to `group-$groupname` where
    you replace `$groupname` with your groupname.
@@ -90,14 +92,13 @@ For your task:
 1. Which question has the answer "42"? Put the question in 42.md.
 
 
-<!-- 
-### Provocing conflict
+## Provocing conflict
 
 If your merge to the `develop` branch was successful without a conflict, choose
-another exercise, which has already been merged. Start your work again on the
+another exercise, which has already been merged, maybe exercise number (10 - Groupnumer).
+Without looking at what the other group did, start your work again on the
 original `starthere` commit and make changes. When merging to develop, these
 changes should lead to a conflict, which has to be resolved manually.
--->
 
 
 # Advanced
