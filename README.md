@@ -1,5 +1,10 @@
 # Git Group Project
 
+This group project is part of the course "Version Control with Git" giving at
+the KSETA Doktorandenworkshop 2014 in Freudenstadt.
+Slides for this Workshop, including further links can be found at:
+	https://github.com/ksetagit/kseta-dvcs-talk
+
 ## Idea of the project
 Documentation of the KSETA Doktorandenworkshop, consisting mostly of Markdown
 documents.
@@ -113,6 +118,9 @@ Git blame annotates a file and for each line shows the last commit modifying
 that line.
 
 2. `git bisect`
+
+A nice example to understand how git bisect works can be found at
+	https://github.com/cayblood/git-bisect-example
 
 ## submodules
 
