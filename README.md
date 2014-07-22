@@ -10,7 +10,7 @@ Documentation of the KSETA Doktorandenworkshop, consisting mostly of Markdown
 documents.
 
 Contents:
-- Groupname.md 
+- Groupname.md
 - Directions.md
 - Hotel.md
 - Workshops.md
@@ -33,7 +33,7 @@ Contents:
 		gitk -all
 
 2. Create a new feature branch `addgroupname`. Think up a group name and add it
-   to Groupname.md. 
+   to Groupname.md.
 
 2. Put your names in People.md.
 
@@ -46,7 +46,7 @@ Contents:
    your `group-*` branch and resolve possible merge conflicts.
 
 ### Group specific tasks
-Each group has a specific task listed in the following. 
+Each group has a specific task listed in the following.
 
 For your task:
 - Create a feature branch with a descriptive name
@@ -131,5 +131,5 @@ http://joncairns.com/2011/10/how-to-use-git-submodules/
 
 
 <!--
-# vim: set textwidth=80 wrap: 
+# vim: set textwidth=80 wrap:
 -->
