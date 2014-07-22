@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# Peoples
-=======
 # People
-A. Schulz
-C. Ba
->>>>>>> new-feature-benefits
 
 # sorted by Git project groups
 
@@ -29,3 +23,6 @@ C. Ba
 	* Chris Boeser  
 	* Michael Ziegler
 
+* group-1337
+        * A. Schulz
+        * C. Ba
