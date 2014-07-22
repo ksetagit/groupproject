@@ -6,8 +6,8 @@ Slides for this Workshop, including further links can be found at:
 	https://github.com/ksetagit/kseta-dvcs-talk
 
 ## Idea of the project
-The topic of this example project is the Documentation of the KSETA
-Doktorandenworkshop, consisting mostly of Markdown documents.
+Documentation of the KSETA Doktorandenworkshop, consisting mostly of Markdown
+documents.
 
 Contents:
 - Groupname.md 
@@ -16,7 +16,6 @@ Contents:
 - Workshops.md
 - Activities.md
 - People.md
-- more to be added by you
 
 ## Common tasks for all groups
 
@@ -38,7 +37,7 @@ Contents:
 
 2. Put your names in People.md.
 
-3. Rename the branch created in the previous step to `group-$groupname` where
+2. Rename the branch created in the previous step to `group-$groupname` where
    you replace `$groupname` with your groupname.
    Hint: `git branch -m oldname newname`
 
@@ -124,9 +123,11 @@ A nice example to understand how git bisect works can be found at
 	https://github.com/cayblood/git-bisect-example
 
 ## submodules
-
-
-## TODO: more
+Submodules can be used to make a project consisting of several git repositories.
+This is a common way to work around the issue that git can only checkout the
+full repository (instead of svn, which can checkout subfolders).
+For a tutorial on how to used submodules, see:
+http://joncairns.com/2011/10/how-to-use-git-submodules/
 
 
 <!--
