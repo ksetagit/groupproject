@@ -1,6 +1,13 @@
 # Peoples
 
+* IPE+TTP
+   Christian Amstutz
+   Philipp Frings
+   Tanja Harbaum
 
-# sorted by Git project groups
-Christian Amstutz
-Philipp Frings
+* Gitmasters
+	* Eileen Kühn
+	* David Kunz
+	* Sarah Müller
+	* Robin Roth
+
