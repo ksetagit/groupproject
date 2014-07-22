@@ -19,6 +19,10 @@ C. Ba
 * Kartoshka
 	* Ivan
 	* Steffen
+* IPE+TTP
+   Christian Amstutz
+   Philipp Frings
+   Tanja Harbaum
  
 * group-cms
 	* Simon Fink
