@@ -2,4 +2,11 @@
 
 
 # sorted by Git project groups
-Stefan
+
+* Gitmasters
+	* Eileen Kühn
+	* David Kunz
+	* Sarah Müller
+	* Robin Roth
+* Peterstaler
+	* Stefan Groh
