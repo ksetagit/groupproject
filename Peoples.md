@@ -1,6 +1,4 @@
 # Peoples
-
-
 # sorted by Git project groups
 
 * Gitmasters
@@ -10,3 +8,6 @@
 	* Robin Roth
 * Peterstaler
 	* Stefan Groh
+* Kartoshka
+  * Ivan
+  * Steffen
