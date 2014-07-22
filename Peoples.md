@@ -1,4 +1,5 @@
 # Peoples
+
 # sorted by Git project groups
 
 * Gitmasters
@@ -6,8 +7,15 @@
 	* David Kunz
 	* Sarah Müller
 	* Robin Roth
+
 * Peterstaler
 	* Stefan Groh
 * Kartoshka
 	* Ivan
 	* Steffen
+ 
+* group-cms
+	* Simon Fink
+	* Chris Boeser  
+	* Michael Ziegler
+
