@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Peoples
+=======
+# People
+A. Schulz
+C. Ba
+>>>>>>> new-feature-benefits
 
 # sorted by Git project groups
 
