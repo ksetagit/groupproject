@@ -1,3 +1,1 @@
-Our group name is: Kartoffel
-
-
+GO AWAY!
