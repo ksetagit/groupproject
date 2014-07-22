@@ -6,8 +6,8 @@ Slides for this Workshop, including further links can be found at:
 	https://github.com/ksetagit/kseta-dvcs-talk
 
 ## Idea of the project
-Documentation of the KSETA Doktorandenworkshop, consisting mostly of Markdown
-documents.
+The topic of this example project is the Documentation of the KSETA
+Doktorandenworkshop, consisting mostly of Markdown documents.
 
 Contents:
 - Groupname.md 
@@ -16,6 +16,7 @@ Contents:
 - Workshops.md
 - Activities.md
 - People.md
+- more to be added by you
 
 ## Common tasks for all groups
 
@@ -37,7 +38,7 @@ Contents:
 
 2. Put your names in People.md.
 
-2. Rename the branch created in the previous step to `group-$groupname` where
+3. Rename the branch created in the previous step to `group-$groupname` where
    you replace `$groupname` with your groupname.
    Hint: `git branch -m oldname newname`
 
