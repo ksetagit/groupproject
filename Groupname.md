@@ -1,4 +1,4 @@
 Our group name is:
-group-cms
+group-cms (Cris,Michael,Simon)
 Gitmasters!
 
