@@ -9,5 +9,5 @@
 * Peterstaler
 	* Stefan Groh
 * Kartoshka
-  * Ivan
-  * Steffen
+	* Ivan
+	* Steffen
